@@ -86,7 +86,7 @@ abstract class Parser
 
     public function dropPlaceholderHtml()
     {
-        return '<div drop-placeholder class="h-full min-h-[200px] text-gray-600 text-lg flex items-center justify-center"><p>'.__('Drop your block here...').'</p></div>';
+        return '<div drop-placeholder class="tw-editor-h-full tw-editor-min-h-[200px] tw-editor-text-gray-600 tw-editor-text-lg tw-editor-flex tw-editor-items-center tw-editor-justify-center"><p>'.__('Drop your block here...').'</p></div>';
     }
 
     public function createBaseView($attributes)
