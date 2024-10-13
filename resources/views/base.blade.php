@@ -1,7 +1,7 @@
 <html>
     <meta charset="UTF-8">
     <body>
-        <div class="container mx-auto max-w-screen-xl">
+        <div class="tw-editor-container tw-editor-mx-auto tw-editor-max-w-screen-xl">
             {!! $slot !!}
         </div>
     </body>
