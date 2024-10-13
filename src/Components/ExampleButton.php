@@ -36,7 +36,7 @@ class ExampleButton extends Component
     {
         return <<<'blade'
             <div>
-                <button wire:click="save" class="bg-blue-200 text-blue-900 rounded px-3 py-1 text-sm">Save</button>
+                <button wire:click="save" class="tw-editor-bg-blue-200 tw-editor-text-blue-900 tw-editor-rounded tw-editor-px-3 tw-editor-py-1 tw-editor-text-sm">Save</button>
             </div>
         blade;
     }
