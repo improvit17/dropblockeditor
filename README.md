@@ -1,6 +1,6 @@
 <p><img src="./art/logo.svg" alt="Logo DropBlockEditor"></p>
 
-[![Build Status](https://github.com/jeffreyvr/dropblockeditor/workflows/run-tests/badge.svg?label=tests)](https://github.com/jeffreyvr/dropblockeditor/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![Build Status](https://github.com/improvit17/dropblockeditor/workflows/run-tests/badge.svg?label=tests)](https://github.com/improvit17/dropblockeditor/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/jeffreyvr/dropblockeditor.svg)](https://packagist.org/packages/jeffreyvr/dropblockeditor)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffreyvr/dropblockeditor.svg)](https://packagist.org/packages/jeffreyvanrossum/dropblockeditor)
 
